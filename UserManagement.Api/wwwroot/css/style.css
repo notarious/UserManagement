@@ -1,0 +1,13 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+#user-list div {
+    margin: 10px 0;
+}
+
+#user-details {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}

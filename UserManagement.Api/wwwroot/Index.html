@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Management</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>User Management</h1>
+
+    <div id="login-form">
+        <h2>Login</h2>
+        <label for="username">Username:</label>
+        <input type="text" id="username">
+        <label for="password">Password:</label>
+        <input type="password" id="password">
+        <button id="login-button">Login</button>
+        <div id="login-error" style="color: red;"></div>
+    </div>
+
+    <div id="user-list" style="display:none;">
+        <h2>User List</h2>
+        <div id="users"></div>
+    </div>
+
+    <div id="user-details" style="display:none;">
+        <h2>User Details</h2>
+        <p>Username: <span id="username-detail"></span></p>
+        <p>Phone Number: <span id="phone-number"></span></p>
+        <p>Passport Number: <span id="passport-number"></span></p>
+        <p>Salary: <span id="salary"></span></p>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

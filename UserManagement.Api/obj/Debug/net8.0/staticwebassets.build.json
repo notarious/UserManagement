@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "ERLL4klMijVsHa/HVmW7KVX0f37W8hvDWzdjkIt44ng=",
+  "Source": "UserManagement.Api",
+  "BasePath": "_content/UserManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UserManagement.Api\\wwwroot",
+      "Source": "UserManagement.Api",
+      "ContentRoot": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\",
+      "BasePath": "_content/UserManagement.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\css\\style.css",
+      "SourceId": "UserManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\",
+      "BasePath": "_content/UserManagement.Api",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\Index.html",
+      "SourceId": "UserManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\",
+      "BasePath": "_content/UserManagement.Api",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\js\\main.js",
+      "SourceId": "UserManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lyosha\\Projects\\UserManagement\\UserManagement.Api\\wwwroot\\",
+      "BasePath": "_content/UserManagement.Api",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    }
+  ]
+}
